@@ -52,7 +52,7 @@ This tutorial accomplishes two things:
           ---
           ```
 4. the body of the post has sample text showing the simple markdown syntax. [This webpage](https://guides.github.com/features/mastering-markdown/) is also a good resource as it provides a comprehensive guide to markdown syntax
-5. open the text editor of your choice (we suggest either [Atom](https://atom.io/) or [Sublime Text](https://www.sublimetext.com/), download one of these if you haven't already)
+5. open the text editor of your choice (we suggest either [Visual Studio Code](https://code.visualstudio.com/), [Atom](https://atom.io/) or [Sublime Text](https://www.sublimetext.com/), download one of these if you haven't already)
 6. create a new empty file in your text editor
 7. **Copy** all of the raw markdown from `.md` file in this repository and **paste** it in to this empty file.
 8. Save the file in the following format `2020-01-03-lastname.md`
