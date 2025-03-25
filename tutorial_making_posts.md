@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2020-01-01
+date:   2025-03-25
 image: "/template_site/images/csr_thumbnail.png"
 title:  "Tutorial - how to make a post on this site"
 author: ""
@@ -45,7 +45,7 @@ This tutorial accomplishes two things:
           ```
           ---
           layout: post
-          date:   2020-01-01
+          date:   2025-03-25
           image: "/your-site-name/images/csr_thumbnail.png"
           title:  "Template Post: Title of Your Final Project"
           author: "Names Of Everyone In Your Group"
