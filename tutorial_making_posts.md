@@ -27,7 +27,7 @@ This tutorial accomplishes two things:
 1. visit [github.com](https://github.com/) and sign up for a Github account if you do not already have one
 2. ask to be added as a contributor to the repository for your class's website if you are not already
 **Download and install the text editor of your choice**
-1. to create your post you will compose a plain text document. To do this you can use Notepad on Windows or Text Editor on Mac, however there are a number of great text editors out there that will help make things easier. [Atom](https://atom.io/) or [Sublime Text](https://www.sublimetext.com/) are two good options. Download and install one of these if you would like.
+1. to create your post you will compose a plain text document. To do this you can use Notepad on Windows or Text Editor on Mac, however there are a number of great text editors out there that will help make things easier. [Visual Studio Code](https://code.visualstudio.com/), [Atom](https://atom.io/), or [Sublime Text](https://www.sublimetext.com/) are a few good options. Download and install one of these if you would like.
 
 #### Step 1: familiarize yourself with the structure of the site
 1. in a browser open both the GitHub repository and the class website (your professor should have given you links to both). The two pages will look something like this:
