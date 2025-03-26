@@ -46,8 +46,9 @@ If you want to include html files (i.e. an interactive map) host these via your 
 
 <div class="iframe-column"><iframe src="https://player.vimeo.com/video/290575503?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
 
-To view the structure of your website in **Visual Studio Code** without having to upload to Github, press the following keys to get a spit-screen view: Ctrl K then V. 
-
 All you need to do to use one is replace the url that is between the two " ". Here is an iframe of mapbox tiles:  
 
 <div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+
+***REMINDER: To view the structure of your website in Visual Studio Code without having to upload to Github, press the following keys to get a spit-screen view: Ctrl K then V.***
+
