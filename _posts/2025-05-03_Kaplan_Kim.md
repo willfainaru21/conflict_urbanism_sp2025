@@ -1,8 +1,8 @@
 ---
 layout: post
 date:   2025-05-05
-image: "/template_site/images/csr_thumbnail.png"
-title:  "Deproblematizing Flooding in Jamaica Bay"
+image: "/conflict_urbanism_sp2025/images/Jaron_Seunghu/JamaicaFinal-01.png"
+title:  "Deproblematizing Flooding by Problematizing the Waterfront"
 author: "Jaron Kaplan & Seunghu Kim"
 ---
 #### We picked the wrong fight!  
