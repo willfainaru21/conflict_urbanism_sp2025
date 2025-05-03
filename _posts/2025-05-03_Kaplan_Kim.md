@@ -33,7 +33,7 @@ Geologic time, however, is unrelenting. Water is powerful, dynamic, and fluid. I
 
 New York City’s Jamaica Bay is no stranger to this practice of line drawing. Maps from as early as 1651 have used lines to draw the waterfront of the American frontier to enable though navigation, resource extraction, and the genocide of Indigenous peoples. Later mapping efforts in the 1700s and 1800s sought to survey New York’s waterfront to identify safe shipping channels and opportunities for infill. These tools for spatial control, as shown in the GIF below, became increasingly detailed to enable imaginaries of a controlled waterfront. Dirt, trash, and discarded oyster shells became new weapons of invasion, filling in marshland to create new space for development once New York had grown too large for its confines.  
 
-![GIF of historical maps of Jamaica Bay](/template_site/images/sample_image.png)  
+![GIF of historical maps of Jamaica Bay](/conflict_urbanism_sp2025/images/Jaron_Seunghu/HistoricalMaps.gif)  
 
 These land reclamation projects, like JFK Airport’s runway construction in 1948, appeared useful at the time. Time has disagreed. Under a changing climate, rising sea levels and intensifying storms are flooding communities around Jamaica Bay. Areas of infill – over water and rivers – are the first to flood, restoring the city’s historical pre-development waterfront, if only for a moment. When floodwaters recede, land prevails. These spaces of overdevelopment ignore water’s summed presence upon the landscape, and yet modern policy and government blames water for encroaching on development, and not the other way around. Is flooding not a problem that we invented? We picked the wrong fight!  
 
@@ -52,7 +52,7 @@ We propose the idea of the waterfront as an amorphous space in constant motion, 
 
 The modern waterfront of Jamaica Bay is no different than da Cunha’s invented rivers. Figure 3 shows NYC borough, NYS civil, federal coastline, OpenStreetMap coastline, and NYC MapPluto boundaries laid upon a hillshade terrain of Jamaica Bay. These lines all hold critically important legal roles in defining jurisdiction, infrastructure, and water boundaries. So why, then, are they not concurrent?
 
-![Legal boundary lines of Jamaica Bay](/template_site/images/sample_image.png)
+![Legal boundary lines of Jamaica Bay](/conflict_urbanism_sp2025/images/Jaron_Seunghu/LegalGIF.gif)
 
 It is because water is messy. It is ambiguous, ephemeral, and in constant motion. By overextending waterfront boundaries, governments absorb water into the terrestrial sphere of control; by underextending, they minimize risk. On sunny days, this difference matters, but during storm events, these boundaries dissolve. Figure Y shows a hillshade map of Jamaica Bay with the Hurricane Sandy inundation zone, 2050 100-year floodplain sea level rise projection, and FEMA FIRM map.  
 
