@@ -47,8 +47,8 @@ Waterfronts, however, are far more murky. The vertical movement of water – thr
 
 We propose the idea of the waterfront as an amorphous space in constant motion, where lines are an insufficient tool for delineation. Jamaica Bay provides a helpful case study to demonstrate the amorphous waterfront because of its varying edge typologies. JFK Airport’s infill is sited next to shrinking marshland, and expanding landfill, flood-prone development, dredged channels, and seawalls. The Bay’s history of government terraforming and dredging projects based on mapping surveys helps demonstrate how water, when subjected to the violence of the line, becomes doubly victimized during flood events by being trapped and a perpetrator of violence. Yet, as the elevation and historical maps below demonstrate, these projects are, themselves, the cause of flooding.  
 
-![History of geoengineering of Jamaica Bay 1870](/conflict_urbanism_sp2025/images/Jaron_Seunghu/dredge 1870.jpg)
-![History of geoengineering of Jamaica Bay 2020](/conflict_urbanism_sp2025/images/Jaron_Seunghu/dredge 2020.jpg)
+![History of geoengineering of Jamaica Bay 1870](/conflict_urbanism_sp2025/images/Jaron_Seunghu/dredge1870.jpg)
+![History of geoengineering of Jamaica Bay 2020](/conflict_urbanism_sp2025/images/Jaron_Seunghu/dredge2020.jpg)
 
 The modern waterfront of Jamaica Bay is no different than da Cunha’s invented rivers. Figure 3 shows NYC borough, NYS civil, federal coastline, OpenStreetMap coastline, and NYC MapPluto boundaries laid upon a hillshade terrain of Jamaica Bay. These lines all hold critically important legal roles in defining jurisdiction, infrastructure, and water boundaries. So why, then, are they not concurrent?
 
