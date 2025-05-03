@@ -27,7 +27,7 @@ Dilip da Cunha, a professor and landscape architect, explores the power of the l
 
 Geologic time, however, is unrelenting. Water is powerful, dynamic, and fluid. It does not obey terrestrial laws of physics. These lines easily dissolve as storm surges, cloudbursts, waves, and sea level rise demonstrate water’s verticality, reclaiming land through flooding and erosion. Harold Fisk’s famous Mississippi River maps diagram water’s power, constantly snaking through the landscape to carve new terrains. This diagram forces one to rethink the idea of the “waterfront;” by understanding historic water-land interfaces, we can begin to imagine the summed presence of water in a landscape, not just its momentary appearance.  
 
-![Harold Fisk's Mississippi River Diagram](/template_site/images/sample_image.png)  
+![Harold Fisk's Mississippi River Diagram](/conflict_urbanism_sp2025/images/Jaron_Seunghu/HaroldFiskMap1944.jpg)  
 
 #### The Lines of Jamaica Bay  
 
@@ -47,7 +47,8 @@ Waterfronts, however, are far more murky. The vertical movement of water – thr
 
 We propose the idea of the waterfront as an amorphous space in constant motion, where lines are an insufficient tool for delineation. Jamaica Bay provides a helpful case study to demonstrate the amorphous waterfront because of its varying edge typologies. JFK Airport’s infill is sited next to shrinking marshland, and expanding landfill, flood-prone development, dredged channels, and seawalls. The Bay’s history of government terraforming and dredging projects based on mapping surveys helps demonstrate how water, when subjected to the violence of the line, becomes doubly victimized during flood events by being trapped and a perpetrator of violence. Yet, as the elevation and historical maps below demonstrate, these projects are, themselves, the cause of flooding.  
 
-![History of geoengineering of Jamaica Bay](/template_site/images/sample_image.png)
+![History of geoengineering of Jamaica Bay 1870](/conflict_urbanism_sp2025/images/Jaron_Seunghu/dredge 1870.jpg)
+![History of geoengineering of Jamaica Bay 2020](/conflict_urbanism_sp2025/images/Jaron_Seunghu/dredge 2020.jpg)
 
 The modern waterfront of Jamaica Bay is no different than da Cunha’s invented rivers. Figure 3 shows NYC borough, NYS civil, federal coastline, OpenStreetMap coastline, and NYC MapPluto boundaries laid upon a hillshade terrain of Jamaica Bay. These lines all hold critically important legal roles in defining jurisdiction, infrastructure, and water boundaries. So why, then, are they not concurrent?
 
@@ -55,7 +56,7 @@ The modern waterfront of Jamaica Bay is no different than da Cunha’s invented 
 
 It is because water is messy. It is ambiguous, ephemeral, and in constant motion. By overextending waterfront boundaries, governments absorb water into the terrestrial sphere of control; by underextending, they minimize risk. On sunny days, this difference matters, but during storm events, these boundaries dissolve. Figure Y shows a hillshade map of Jamaica Bay with the Hurricane Sandy inundation zone, 2050 100-year floodplain sea level rise projection, and FEMA FIRM map.  
 
-![Flooding of Jamaica Bay](/template_site/images/sample_image.png)  
+![Flooding of Jamaica Bay](/conflict_urbanism_sp2025/images/Jaron_Seunghu/Kaplan_Kim_Flooding.gif)  
 
 The ambiguity of the waterfront is complicated by these real or projected flood events which suggest that not only do current lines fail to reach consensus on a “waterfront” – they ultimately fail to hold any relevance for water’s summed presence upon the landscape.  
 
@@ -73,7 +74,7 @@ Lenape culture and practice view water as alive, and more-than-human. Robin Wall
 
 Surviving Lenape languages keep this movement alive, inviting the receding and flooding of the water. Language, as a living archive, contains records of worldviews, traditions, and culture. Lenape nouns, especially, suggest a living conceptualization of more-than-humans like water, using animate pronouns, “he,” “she,” or “they” to refer to what, in English, would otherwise be inanimate. Verbs thus become social, connecting two beings through interrelations. To demonstrate this – rather than providing a literary dictionary – we offer a video of Jamaica Bay overlaid with Lenape language to connect Lenape ontologies with place, suggesting new relationships that honor water’s personhood.
 
-![Rematriating the waterfront through Lenape Language](/template_site/images/sample_image.png)  
+[![Rematriating the waterfront through Lenape Language](https://img.youtube.com/vi/q5YEF7yAh2s/0.jpg)](https://www.youtube.com/watch?v=q5YEF7yAh2s)  
 
 #### Reframing Jamaica Bay’s Waterfront  
 
