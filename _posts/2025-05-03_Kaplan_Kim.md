@@ -100,8 +100,6 @@ Legal Waterfront
 - OpenStreetMap. *Coastline*. [2024] Shapefile. [Link](https://www.openstreetbrowser.org/#map=13/40.6125/-73.8290&basemap=osm-mapnik&categories=natural%5Btype%3Dcoastline%5D).
 - U.S. Census Bureau. *Tiger/Line Federal US Census Coastline*. [2024] Shapefile. [Link](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2024&layergroup=Coastline).
 
- 
-
 Scientific Waterfront
 - FEMA. FIRM Maps. [2025] Map. [Link](https://hazards-fema.maps.arcgis.com/apps/webappviewer/index.html?id=8b0adb51996444d4879338b5529aa9cd).
 - Mayor's Office of Climate and Environmental Justice. February 19, 2024. *Sea Level Rise Maps (2050s 100-year Floodplain)*. Accessed March 6, 2025. [Link](https://data.cityofnewyork.us/Environment/Sea-Level-Rise-Maps-2050s-100-year-Floodplain-/hbw8-2bah).
