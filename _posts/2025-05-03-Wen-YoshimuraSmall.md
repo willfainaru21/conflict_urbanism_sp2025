@@ -69,6 +69,9 @@ The Dec 22nd, 2024 immolation of Debrina Kawam was in a sense the culmination of
 In both Neely and Kawam’s cases, it is clear that the media capitalized on the magnitude of the event, stoking slippery and unproductive public discourse, and doing nothing to foster a forum of dialogue around modern policing and its dearth of compassionate methods. <br> <br>
 </p>
 
+<h4>Conclusion</h4>
+Safety, like security, is about collective management (Ghertner et al., 2020). Safety is abstract, aspirational, and contested. Under broken windows theory, it locates and anticipates a target (that which we should fear, categorize as threat, risk, danger, criminal, out of place) and defines the infrastructure of safety through calculable risk (police presence, barriers, fare gates, surveillance). The resurgence of broken windows theory staged on the notion of public safety is a display of political theatre that steers sentiments of safety in the Subway. 
+
 <h4>Citations</h4>
 <p style="text-align: left; font-family: sans-serif; font-size: 12">
   Allen, J. (2024, March 8). New York to deploy 750 National Guard soldiers to check bags on subway. Reuters. https://www.reuters.com/world/us/new-york-deploy-750-national-guard-soldiers-check-bags-subway-2024-03-06/ <br>
@@ -81,6 +84,7 @@ https://www.vitalcitynyc.org/articles/how-rare-is-crime-on-the-Subway <br>
 City of New York. (2024, April 26). NYPD Arrests Data (Historic). Retrieved from 
 https://catalog.data.gov/dataset/nypd-arrests-data-historic <br>
   Dyson, I., Ayoub, E., & Jaloza, S. (2024). NYPD Continues to Dodge Surveillance Transparency Laws. Brennan Center for Justice. https://www.brennancenter.org/our-work/analysis-opinion/nypd-continues-dodge-surveillance-transparency-laws <br>
+  Ghertner, D.A., McFann, H., and Goldstein, D.M. Security Aesthetics of and beyond the Biopolitical. In Ghertner, D.A., McFann, H., and Goldstein, D.M. (Eds.), Futureproof: Security Aesthetics and the Management of Life, (pp. 1-32). Duke University Press. <br>
   Governor Kathy Hochul. (2025). Safer Subways: One Year After Deploying Additional Law Enforcement and Safety Measures, Governor Hochul Highlights Ongoing Efforts to Keep Riders and Transit Workers Safe on Subways. Governor Kathy Hochul. https://www.governor.ny.gov/news/safer-subways-one-year-after-deploying-additional-law-enforcement-and-safety-measures-governor <br>
   Harris, A. J., Ransom, J., & Jr, J. A. A. (2023, November 20). Behind 94 Acts of Shocking Violence, Years of Glaring Mistakes. The New York Times. https://www.nytimes.com/2023/11/20/nyregion/nyc-mental-illness-breakdowns.html <br>
 Harvey, D. (2019). Rebel Cities: From the Right to the City to the Urban Revolution. Verso. <br>
