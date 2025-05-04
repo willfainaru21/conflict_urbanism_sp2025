@@ -71,7 +71,7 @@ Visible in the below video, the number of quality-of-life arrests broadly increa
 <video style = "width:600px; height:auto; vertical-align:middle; margin:5px 0 5px 0;" controls autoplay loop muted>
   <source src="/conflict_urbanism_sp2025/images/Erin_Tim/OverPolicing.mp4" type="video/mp4">
 </video>
-
+<p></p>
 <p style="text-align: justify; font-family: sans-serif;">
 According to the data, quality-of-life arrests went up 77% from 2022 (4864) to 2023 (8617) and 96% from 2023 to 2024 (16929) respectively, citywide. At the same time, felony arrests went up 29% from 2022 (1834) to 2023 (2374) and 22% 2023 to 2024 (2887). Given Subway ridership has been between 1 and 1.2 billion yearly since 2022, the relatively accelerated progression in policing statistics is notable. In addition, it is bizarre that the official crime statistics offered by the MTA deviate from tabulations of the raw NYPD records. Looking only at felonies between 2023 and 2024, their summary claims a decrease from 2337 to 2211 (NYPD, 2025), while this study tallies an increase from 2374 to 2887. <br> <br>
 
