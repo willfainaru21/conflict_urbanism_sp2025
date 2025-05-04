@@ -68,7 +68,7 @@ Visible in the below video, the number of quality-of-life arrests broadly increa
 
 </p>
 
-<video style = "width:600px; height:auto; vertical-align:middle; margin:5px 0 5px 0;" controls autoplay loop muted>
+<video style = "width:650px; height:auto; vertical-align:middle; display: block; margin: 0 auto;" controls autoplay loop muted>
   <source src="/conflict_urbanism_sp2025/images/Erin_Tim/OverPolicing.mp4" type="video/mp4">
 </video>
 <p></p>
