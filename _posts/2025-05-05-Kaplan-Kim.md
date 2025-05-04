@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2025-05-05
-image: "/conflict_urbanism_sp2025/images/Jaron_Seunghu/JamaicaFinal-01.png"
+image: "/conflict_urbanism_sp2025/images/Jaron_Seunghu/JamaicaFinal.png"
 title:  "Deproblematizing Flooding by Problematizing the Waterfront"
 author: "Jaron Kaplan & Seunghu Kim"
 ---
