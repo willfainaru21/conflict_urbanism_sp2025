@@ -19,7 +19,7 @@ This project seeks to use critical cartographic tools to map these competing con
 To accomplish this, we expect to use a mixed-methods approach. Colonial conceptualizations of the waterfront draw from institutional datasets like FEMA flood maps, shoreline clipped boundaries, tidal datums, sea level rise projections, and historical maps. Indigenous Lenape conceptualizations draw from language, oral history and storytelling, and archaeological evidence that demonstrate a different conceptualization of the water-land interface. These competing narratives are visualized in a series of maps that challenge Western definitions of waterfronts.  
 
 **How do the lines we draw enact violence upon people and nature? And what alternatives can we learn from?**  
-
+  
 #### The Power of the Line  
 
 Lines are one of the most powerful tools of government, used to carve out space in maps, architecture, and politics. They serve as walls and connectors, defining relationships of have and have nots. While they are representative in concept, lines are used as worldbuilding tools, and have real consequences for those who suffer their violence.  
@@ -29,7 +29,7 @@ Dilip da Cunha, a professor and landscape architect, explores the power of the l
 Geologic time, however, is unrelenting. Water is powerful, dynamic, and fluid. It does not obey terrestrial laws of physics. These lines easily dissolve as storm surges, cloudbursts, waves, and sea level rise demonstrate water’s verticality, reclaiming land through flooding and erosion. Harold Fisk’s famous Mississippi River maps diagram water’s power, constantly snaking through the landscape to carve new terrains. This diagram forces one to rethink the idea of the “waterfront;” by understanding historic water-land interfaces, we can begin to imagine the summed presence of water in a landscape, not just its momentary appearance.  
 
 ![Harold Fisk's Mississippi River Diagram](/conflict_urbanism_sp2025/images/Jaron_Seunghu/HaroldFiskMap1944.jpg)  
-
+  
 #### The Lines of Jamaica Bay  
 
 New York City’s Jamaica Bay is no stranger to this practice of line drawing. Maps from as early as 1651 have used lines to draw the waterfront of the American frontier to enable though navigation, resource extraction, and the genocide of Indigenous peoples. Later mapping efforts in the 1700s and 1800s sought to survey New York’s waterfront to identify safe shipping channels and opportunities for infill. These tools for spatial control, as shown in the GIF below, became increasingly detailed to enable imaginaries of a controlled waterfront. Dirt, trash, and discarded oyster shells became new weapons of invasion, filling in marshland to create new space for development once New York had grown too large for its confines.  
@@ -39,7 +39,7 @@ New York City’s Jamaica Bay is no stranger to this practice of line drawing. M
 These land reclamation projects, like JFK Airport’s runway construction in 1948, appeared useful at the time. Time has disagreed. Under a changing climate, rising sea levels and intensifying storms are flooding communities around Jamaica Bay. Areas of infill – over water and rivers – are the first to flood, restoring the city’s historical pre-development waterfront, if only for a moment. When floodwaters recede, land prevails. These spaces of overdevelopment ignore water’s summed presence upon the landscape, and yet modern policy and government blames water for encroaching on development, and not the other way around. Is flooding not a problem that we invented? We picked the wrong fight!  
 
 Our modern development in flood-prone areas inherently embodies a certain level of risk. Governments and developers have accepted that the profit from building in floodplains – given their proximity to urban centers – exceeds the financial risk posed by flooding. Yet, when these spaces flood, insurance and disaster relief programs bail out (pun intended) landowners to incentive redevelopment on historically flooded plots. Infrastructure in these wet landscapes fossilizes the most up-to-date science of ecology, hydrology, and economics to maximize profit given certain probabilistic thresholds of modeled flood events. We need an alternative understanding of the waterfront to reimagine our relationship with its edge – one that protects people and honors the sum of water’s presence.  
-
+  
 #### Inviting Room for Movement  
 
 This project aims to melt these ice-cold accusations against water by first demonstrating the arbitrary nature of waterfront mapping. The violence of colonial lines defining water and land, access and extraction, and movement and target are pure constructions of perception. Each map represents the scientist’s series of decisions – a methodology – used to define representations of space. Before the invention of digital mapping tools, waterfront maps were generalized, often collapsing infinitely complex textured coastlines into smooth sweeping curves. Even after mapping technology modernized, coastlines still reflected the z-axis for which the scientist decided where water suddenly became land.  
@@ -64,7 +64,7 @@ The ambiguity of the waterfront is complicated by these real or projected flood 
 To address the flood risk of Jamaica Bay’s current development, New York City is turning to its historic colonial owner: the Dutch. 55 percent of the Netherlands sits in flood-prone areas, so in response, the Dutch government has implemented a series of hydro-engineered megaprojects and zoning codes to protect development. Massive levees, flood gates, and pumping systems keep water out, while floating or floodable architecture keeps people dry. This approach embraces living with water, blurring the lines of the waterfront. Communities across the tri-state area like Hoboken and Staten Island have adopted projects based on Dutch design principles.  
 
 We challenge this appropriation of Dutch engineering to protect the coastline of their former colony by asking: are there historical examples of living with water that already exist in New York? Rather than look to the same Western methodologies that enabled development to encroach on water, we look to Indigenous knowledge that is contextual to the landscape of Jamaica Bay. The Lenape (meaning “original peoples”) lived in Lenapehoking (the coastal areas comprising so called Pennsylvania, New Jersey, and New York) for time immemorial. Over centuries, their communities, language, and cultural practices evolved around water, constituting an ontological system that centers inter-relations between humans and more-than-humans. While the Dutch forced removal of the Lenape in 1609 erased much of this knowledge, fragments survive in language, stories, and archeology. We turn to these precious remnants to build a decolonial framework for conceptualizing the waterfront.  
-
+  
 #### Rematriating the Waterfront through Lenape Epistemologies  
 
 The Lenape have made Lenapehoking their home for thousands of years. The area around Jamaica Bay was particularly kind, supporting multiple Lenape communities who fished, hunted, and traveled along its shores. Lenape communities located their structures, particularly in Canarsie, in the floodplain and near the water, **using ancestral knowledge of flood risk to protect people and make the most of coastal landscapes.** This knowledge of water was fundamental to the Lenape; the Lenape origin story tells of the land being born from a muskrat scooping mud from the seafloor and piling it on a turtle’s back. The land on which we all live, *Lenapehoking*, is referred to as “Turtle Island,” claiming that land is borne from water. This challenges Western notions of flooding by suggesting the shifting waterfront results from the vertical movement of land, while water stays static. It also positions land as an act of generosity from a living being – the turtle and the muskrat – capable of interrelations with people.  
@@ -76,13 +76,13 @@ Lenape culture and practice view water as alive, and more-than-human. Robin Wall
 Surviving Lenape languages keep this movement alive, inviting the receding and flooding of the water. Language, as a living archive, contains records of worldviews, traditions, and culture. Lenape nouns, especially, suggest a living conceptualization of more-than-humans like water, using animate pronouns, “he,” “she,” or “they” to refer to what, in English, would otherwise be inanimate. Verbs thus become social, connecting two beings through interrelations. To demonstrate this – rather than providing a literary dictionary – we offer a video of Jamaica Bay overlaid with Lenape language to connect Lenape ontologies with place, suggesting new relationships that honor water’s personhood.  
 
 [![Rematriating the waterfront through Lenape Language](https://img.youtube.com/vi/q5YEF7yAh2s/0.jpg)](https://www.youtube.com/watch?v=q5YEF7yAh2s)  
-
+  
 #### Reframing Jamaica Bay’s Waterfront  
 
 Through these Lenape ontologies and epistemologies, we can reimagine Jamaica Bay’s map not through lines and delineations, but through language and interrelationships. Rather than separate land and water with a binary waterfront, this new worldview connects the upland to the bay through water and its movement. The violence of lines of separation gives way to embodied practices of connection. In describing the waterfront as space, and not a boundary, we invite room for water’s verticality, flow, and dynamism. Most importantly, we do this through Lenape histories borne from Lenapehoking, not design principles imposed by the Dutch.  
 
 Communities around Jamaica Bay have already suffered at the hands of the violence of the line. JFK Airport and communities like Edgemere and Canarsie, built on marsh infill, face increasingly frequent flood events as seas rise and storm events become more frequent. Meanwhile, the double violence of the line both contains (kills) and problematizes water. Water, however, is not the problem. Lenape stories position water as a giver of life – a generous provider on which the world is built. From this perspective, we understand our Western practices – of controlling, containing, and quantifying water – as the true challenge to overcome. The waterfront is not a binary. It is alive.  
-
+  
 #### References  
 
 Datasets  
