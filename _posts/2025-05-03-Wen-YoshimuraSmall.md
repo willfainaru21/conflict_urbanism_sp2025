@@ -74,8 +74,8 @@ In both Neely and Kawam’s cases, it is clear that the media capitalized on the
 
 <h4>Conclusion</h4>
 <p style="text-align: justify; font-family: sans-serif;">
-Safety, like security, is about collective management (Ghertner et al., 2020). Safety is abstract, aspirational, and contested. Under broken windows theory, it locates and anticipates a target (that which we should fear, categorize as threat, risk, danger, criminal, out of place) and defines the infrastructure of safety through calculable risk (police presence, barriers, fare gates, surveillance). The resurgence of broken windows theory staged on the notion of public safety is a display of political theatre that steers sentiments of safety in the Subway. 
-</p>
+Safety, like security, is about collective management (Ghertner et al., 2020). Safety is abstract, aspirational, and contested. Under broken windows theory, it locates and anticipates a target (that which we should fear, categorize as threat, risk, danger, criminal, out of place) and defines the infrastructure of safety through calculable risk (police presence, barriers, fare gates, surveillance). The resurgence of broken windows theory staged on the notion of public safety is a display of political theatre that steers sentiments of safety in the Subway. <br> <br>
+</p> 
 
 <h4>Citations</h4>
 <p style="text-align: left; font-family: sans-serif; font-size: 12">
