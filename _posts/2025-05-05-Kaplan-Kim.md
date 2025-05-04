@@ -5,6 +5,7 @@ image: "/conflict_urbanism_sp2025/images/Jaron_Seunghu/JamaicaFinal-01.png"
 title:  "Deproblematizing Flooding by Problematizing the Waterfront"
 author: "Jaron Kaplan & Seunghu Kim"
 ---
+
 #### We picked the wrong fight!  
 
 What is the waterfront? Images of beaches, docks, and promenades come to mind – recreational space lulled by the sound of crashing waves. The water ebbs and flows as the surface shifts, lapping at the shore. Our intuition understands the waterfront as a dynamic space of ever-changing waves and tides; so why then, do our maps define our waterfront with static lines? Water will always escape the neat boxes we draw to contain it.  
