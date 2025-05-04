@@ -20,6 +20,7 @@ To accomplish this, we expect to use a mixed-methods approach. Colonial conceptu
 
 **How do the lines we draw enact violence upon people and nature? And what alternatives can we learn from?**  
   
+
 #### The Power of the Line  
 
 Lines are one of the most powerful tools of government, used to carve out space in maps, architecture, and politics. They serve as walls and connectors, defining relationships of have and have nots. While they are representative in concept, lines are used as worldbuilding tools, and have real consequences for those who suffer their violence.  
