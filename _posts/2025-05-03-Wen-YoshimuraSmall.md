@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2025-04-20
-image: "/conflict_urbanism_sp2025/images/Erin_Tim/header.png"
+image: "/conflict_urbanism_sp2025/images/Erin_Tim/Headermin.png"
 title:  "Sentiments of Safety on the New York City Subway"
 author: "Erin Wen & Timothy Yoshimura Small"
 ---
