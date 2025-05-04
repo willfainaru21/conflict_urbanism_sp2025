@@ -1,9 +1,9 @@
 ---
 layout: post
 date:   2025-04-20
-image: "/SentimentsOfSafetyNYCSubway/images/csr_thumbnail.png"
+image: "/conflict_urbanism_sp2025/images/Erin_Tim/header.png"
 title:  "Sentiments of Safety on the New York City Subway"
-author: "Erin Wen, Timothy Yoshimura Small"
+author: "Erin Wen & Timothy Yoshimura Small"
 ---
 
 There's going to be a video here. You can't see it here, but it'll be here. It will. <br> <br>
